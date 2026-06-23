@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / tooling
+.idea/
+.vscode/
+.claude/
+
+# Regenerated on first run (one-time IAPWS-95 build, ~2.5 min)
+water_table.npz
